@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+.padding-novoscursos {
+    padding-top: 15px;
+}
+.padding-bottom{
+    padding-bottom: 15px;
+}
+
+.margin-cursos {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.icone-whatsapp{
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    right: 0%;
+    bottom: 7%;
+    z-index: 1;
+}
